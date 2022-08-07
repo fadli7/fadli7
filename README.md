@@ -1,9 +1,23 @@
-![](https://raw.githubusercontent.com/fadli7/fadli7/master/profile.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fadli7/fadli7/master/profile.gif" />
+</p>
 
-### Hi there 👋
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 <!--
->>>>>>> 8b46ffeabc28b106991d164c6244adf9850a5197
 **fadli7/fadli7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
