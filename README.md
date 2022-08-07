@@ -1,13 +1,6 @@
-[![](https://raw.githubusercontent.com/fadli7/fadli7/master/profile.gif)]
+![](https://raw.githubusercontent.com/fadli7/fadli7/master/profile.gif)
 
 ### Hi there 👋
-
-<<<<<<< HEAD
-
-
-<!-- 
-=======
-[![](../img/profile.gif)]
 
 <!--
 >>>>>>> 8b46ffeabc28b106991d164c6244adf9850a5197
