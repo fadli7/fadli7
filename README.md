@@ -2,9 +2,15 @@
 
 ### Hi there 👋
 
+<<<<<<< HEAD
 
 
 <!-- 
+=======
+[![](../img/profile.gif)]
+
+<!--
+>>>>>>> 8b46ffeabc28b106991d164c6244adf9850a5197
 **fadli7/fadli7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
